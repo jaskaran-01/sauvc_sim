@@ -4,9 +4,9 @@ SAUVC environment with ROS2 humble
 
 ## Getting started
 Install Humble from source :
-```
-https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Development-Setup.html
-```
+
+[a link](https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Development-Setup.html)
+
 
 Build the code:
 

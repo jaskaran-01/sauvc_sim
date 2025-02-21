@@ -49,3 +49,10 @@ Keyboard control:
 ```
 ros2 run sauvc_sim teleop.py
 ```
+
+
+#PS: 
+if gazebo has odd errors try sourcing gazebo thats worked for me 
+```
+source /usr/share/gazebo/setup.sh
+```

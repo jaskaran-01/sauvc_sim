@@ -1,1 +1,0 @@
-/home/jaskaran/sauvc_sim/build/sauvc_sim/ament_cmake_environment_hooks/pythonpath.sh

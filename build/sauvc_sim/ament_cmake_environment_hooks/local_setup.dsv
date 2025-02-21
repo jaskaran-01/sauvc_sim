@@ -1,4 +1,0 @@
-source;share/sauvc_sim/environment/ament_prefix_path.sh
-source;share/sauvc_sim/environment/path.sh
-source;share/sauvc_sim/environment/pythonpath.sh
-source;share/sauvc_sim/environment/sauvc_sim.dsv
